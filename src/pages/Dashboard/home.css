@@ -1,0 +1,10 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 25px;
+}
+.home div h1 {
+    margin: 10px;
+}
